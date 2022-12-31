@@ -7,7 +7,7 @@ const repeatString = function(str, num) {
         word += str 
       }
       
-    return word 
+    return word
 };
 
 // Do not edit below this line
